@@ -1,6 +1,4 @@
-# streamlit
-# pandas
-# scikit-learn
-
-
-#pip install -r /path ofrequirements.txt/
+streamlit
+pandas
+scikit-learn
+numpy
